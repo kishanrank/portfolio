@@ -1071,6 +1071,15 @@
     content: "\f0e9"
 }
 
+.fa-mobile:before {
+    content: "\f3cd"
+}
+
+.fa-web:before {
+    content: "\f1c9"
+}
+
+
 .fa-paste:before,
 .fa-clipboard:before {
     content: "\f0ea"
